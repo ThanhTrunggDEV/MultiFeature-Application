@@ -1,0 +1,26 @@
+D:\code\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\code\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\code\Project\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\code\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\code\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\code\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\code\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\code\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\code\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\code\Project\WindowsFormsApp1\bin\Debug\en\WindowsFormsApp1.resources.dll
+D:\code\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppDaNang.resources
+D:\code\Project\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppDaNang.en.resources
+D:\code\Project\WindowsFormsApp1\obj\Debug\en\WindowsFormsApp1.resources.dll
+D:\Coding Space\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Coding Space\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Coding Space\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Coding Space\C#\WindowsFormsApp1\bin\Debug\en\WindowsFormsApp1.resources.dll
+D:\Coding Space\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Coding Space\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppDaNang.resources
+D:\Coding Space\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Coding Space\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AppDaNang.en.resources
+D:\Coding Space\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Coding Space\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Coding Space\C#\WindowsFormsApp1\obj\Debug\en\WindowsFormsApp1.resources.dll
+D:\Coding Space\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Coding Space\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
