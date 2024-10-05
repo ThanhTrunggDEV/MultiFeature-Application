@@ -135,6 +135,7 @@ namespace WindowsFormsApp1
             // 
             // button1
             // 
+            this.button1.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             resources.ApplyResources(this.button1, "button1");
             this.button1.Name = "button1";
             this.button1.UseVisualStyleBackColor = true;
@@ -171,18 +172,21 @@ namespace WindowsFormsApp1
             this.textBox3.BackColor = System.Drawing.SystemColors.InactiveCaption;
             resources.ApplyResources(this.textBox3, "textBox3");
             this.textBox3.Name = "textBox3";
+            this.textBox3.Click += new System.EventHandler(this.textbox3_Click);
             // 
             // textBox4
             // 
             this.textBox4.BackColor = System.Drawing.SystemColors.InactiveCaption;
             resources.ApplyResources(this.textBox4, "textBox4");
             this.textBox4.Name = "textBox4";
+            this.textBox4.Click += new System.EventHandler(this.textbox4_Click);
             // 
             // textBox5
             // 
             this.textBox5.BackColor = System.Drawing.SystemColors.InactiveCaption;
             resources.ApplyResources(this.textBox5, "textBox5");
             this.textBox5.Name = "textBox5";
+            this.textBox5.Click += new System.EventHandler(this.textbox5_Click);
             // 
             // label3
             // 
@@ -239,6 +243,7 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
+            this.MaximizeBox = false;
             this.Name = "AppDaNang";
             this.ResumeLayout(false);
             this.PerformLayout();
